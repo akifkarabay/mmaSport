@@ -1,0 +1,47 @@
+
+.big_section {
+    position: relative;
+    background-color: #24252a;
+    color: #ffffff;
+    }
+    
+    .big_section .img-box img {
+      float: left;
+      align-items: left;
+    }
+    
+    .big_section .form_container {
+      float: left;  
+      padding: 45px 0px 45px 107px;
+    }
+    
+    .big_section input {
+      border-radius: 100px;
+      width: 505px;
+      border: none;
+      background-color: #ffffff;
+      outline: none;
+      color: #000000;
+      margin-top: 25px;
+      padding: 12px;
+    }
+    
+    .big_section input::placeholder {
+      color: #2a2a2c;
+    }
+    
+    .big_section input.message-box {
+      padding: 45px 12px;
+    }
+    
+    .big_section button {
+      padding: 10px 65px;
+      outline: none;
+      border: none;
+      color: #fdf6f6; 
+      background: rgb(0, 136, 169);
+      margin-top: 30px;
+      margin-left: 157px;
+      text-transform: uppercase;
+    }
+    
